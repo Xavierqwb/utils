@@ -1,7 +1,5 @@
 package com.xavier.exception;
 
-import com.sun.xml.internal.ws.api.model.CheckedException;
-
 /**
  * Created by qiuwenbin on 2017/9/2.
  *
